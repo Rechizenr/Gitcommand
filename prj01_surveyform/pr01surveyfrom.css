@@ -63,7 +63,7 @@ textarea {
 }
   
 input[type="submit"] {
-    background-color: rgb(139, 0, 139);
+    background-color: rgb(150, 0, 139);
     border-color: rgb(255, 215, 0);
     color: rgb(245, 255, 250);
     font-size: 1.33rem;
